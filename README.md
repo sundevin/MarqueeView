@@ -60,14 +60,6 @@
 
 自定义属性如下
 
-intervalTime	多久滚动一次的时间间隔
-scrollTime	一次滚动的时间
-orientation	切换的方向，有bottomToTop，topToBottom，rightToLeft，leftToRight四种方向
-enableAlphaAnim	是否开启子View的透明渐变
-enableScaleAnim	是否开启子View的缩放渐变
-
-
-
 | intervalTime     | 多久滚动一次的时间间隔 | 
 | --------   | -----:  |
 | orientation        |  切换的方向，有bottomToTop，topToBottom，rightToLeft，leftToRight四种方向   | 
